@@ -6,15 +6,24 @@
   Hey I'm Marvin, 18 yo from Germany. Im an aspiring programmer. I'm going to study computer science soon, but till then I code my own things. And I'm a filmmaker. But that's not for GitHub.
 </p>
 
-<ul>
+<ul style="padding: 0;">
 🎂 18 yo<br>
 💻Webdev<br>
 🎥Filmmaker<br>
 🎓Studying soon<br>
 </ul>
 
+<br>
 
-<h2><img src="https://media.giphy.com/media/KcVjOpaQfE6bhicWqP/giphy.gif" height="20">My Socialmedia</h2>
+<h2><img src="https://media.giphy.com/media/XBiIXQOKTLoxlTDfIs/giphy.gif" height="25"> Current Projects</h2>
+<ul style="padding: 0;">
+🎵 A live-voting app for parties - connected via Spotify API<br>
+📄 My own CMS System<br>
+💻 A website archive with templates for artists
+</ul>
+<br>
+
+<h2><img src="https://media.giphy.com/media/KcVjOpaQfE6bhicWqP/giphy.gif" height="25">My Socialmedia</h2>
 <p>
   <a href="mailto:marvinskanal.yt@gmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://instagram.com/dermrvn" target="_blank"><img height="28" src = "https://img.shields.io/badge/-Instagram-e95950?style=for-the-badge&logo=Instagram&logoColor=white"></a>
@@ -22,8 +31,9 @@
   <a href="https://youtube.com/dermrvn" target="_blank"><img height="28" src = "https://img.shields.io/badge/-youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
+<br>
 
-<h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Stuff I Know</h2>
+<h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="25"> Stuff I Know</h2>
 
 <p>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="25"> 
@@ -42,7 +52,9 @@
 <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" height="25">
 </p>
 
-<h2><img src="https://media.giphy.com/media/l3q2IYN87QjIg51kc/giphy.gif" height="25"> Stuff I Want To Learn Soon</h2>
+<br>
+
+<h2><img src="https://media.giphy.com/media/YRDstN3RevBJBbqZIl/giphy.gif" height="25"> Stuff I Want To Learn Soon</h2>
 
 <p>
 <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" height="25"> 
@@ -52,8 +64,18 @@
 <img src="https://img.shields.io/badge/-After Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white" height="25"> 
 </p>
 
+<br>
 
-<h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My Github Stats</h2>
+<h2><img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" height="25">My Setup</h2>
+
+<p>
+<img src="https://img.shields.io/badge/-Intel I7-0071C5?style=flat-square&logo=intel&logoColor=white" height="25"> 
+<img src="https://img.shields.io/badge/-Radeon RX480-ED1C24?style=flat-square&logo=amd&logoColor=white" height="25"> 
+<img src="https://img.shields.io/badge/-Windows 10-0078D6?style=flat-square&logo=windows&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/-VS Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" height="25"> 
+</p>
+
+<h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My Stats</h2>
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=dermrvn-code&theme=highcontrast&show_icons=true&include_all_commits=true&count_private=true&hide=issues&line_height=32">
