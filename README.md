@@ -42,6 +42,17 @@
 <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" height="25">
 </p>
 
+<h2><img src="https://media.giphy.com/media/l3q2IYN87QjIg51kc/giphy.gif" height="25"> Stuff I Want To Learn Soon</h2>
+
+<p>
+<img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" height="25"> 
+<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" height="25"> 
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" height="25"> 
+<img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" height="25"> 
+<img src="https://img.shields.io/badge/-After Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white" height="25"> 
+</p>
+
+
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My Github Stats</h2>
 
 <p align = "center">
