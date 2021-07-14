@@ -8,9 +8,9 @@
 
 <ul style="padding: 0;">
 🎂 18 yo<br>
-💻Webdev<br>
-🎥Filmmaker<br>
-🎓Studying soon<br>
+💻 Webdev<br>
+🎥 Filmmaker<br>
+🎓 Studying soon<br>
 </ul>
 
 <br>
