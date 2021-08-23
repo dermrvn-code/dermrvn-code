@@ -66,7 +66,7 @@
 
 <br>
 
-<h2><img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" height="25">My Desktop Setup</h2>
+<h2><img src="https://media.giphy.com/media/h7RC6oCYybRfNzEYvW/giphy.gif?cid=ecf05e47cg9lmlus12tba9mj2g5nnd7ocu5h2c3nma1deok2&rid=giphy.gif" height="25">My Desktop Setup</h2>
 
 <p>
 <img src="https://img.shields.io/badge/-Intel i7-0071C5?style=flat-square&logo=intel&logoColor=white" height="25"> 
