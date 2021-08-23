@@ -81,7 +81,7 @@
 <h2><img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" height="25">My Laptop Setup</h2>
 
 <p>
-<img src="https://img.shields.io/badge/-Lenovo Ideapad Flex 5-ED1C24?style=flat-square&logo=lenovo&logoColor=white" height="25"> 
+<img src="https://img.shields.io/badge/-Ideapad Flex 5-ED1C24?style=flat-square&logo=lenovo&logoColor=white" height="25"> 
 <img src="https://img.shields.io/badge/-Intel i5-0071C5?style=flat-square&logo=intel&logoColor=white" height="25"> 
 <img src="https://img.shields.io/badge/-Windows 10-0078D6?style=flat-square&logo=windows&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/-VS Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" height="25"> 
