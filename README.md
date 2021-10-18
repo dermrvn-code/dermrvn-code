@@ -3,7 +3,7 @@
 <h2><img src="https://media.giphy.com/media/lq3imhZ7qSz8xAFBv4/giphy.gif" height="20">About Me</h2>
 
 <p>
-  Hey I'm Marvin, 18 yo from Germany. Im an aspiring programmer. I'm going to study computer science soon, but till then I code my own things. And I'm a filmmaker. But that's not for GitHub.
+  Hey I'm Marvin, 18 yo from Germany. Im an aspiring programmer. I'm studying computer science at the HSHL in Hamm. But I still code my own things. And I'm a filmmaker. But that's not for GitHub.
 </p>
 
 <ul style="padding: 0;">
@@ -83,14 +83,21 @@
 <br>
 
 <h2><img src="https://media.giphy.com/media/YRDstN3RevBJBbqZIl/giphy.gif" height="25"> Stuff I Want To Learn Soon</h2>
-
 <p>
-<img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" height="25"> 
-<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" height="25"> 
-<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" height="25"> 
-<img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" height="25"> 
-<img src="https://img.shields.io/badge/-After Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white" height="25"> 
+    <a href=https://www.arduino.cc/" target="_blank">
+        <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" height="25" />
+    </a>
+    <a href="https://www.linux.org/" target="_blank">
+        <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" height="25" />
+    </a>
+    <a href="https://reactjs.org/" target="_blank">
+        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" height="25" />
+    </a>
+    <a href="https://www.adobe.com/de/products/aftereffects.html" target="_blank">
+        <img src="https://img.shields.io/badge/-After Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white" height="25" />
+    </a>
 </p>
+
 
 <br>
 
