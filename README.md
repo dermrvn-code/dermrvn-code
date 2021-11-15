@@ -10,7 +10,7 @@
 🎂 18 yo<br>
 💻 Webdev<br>
 🎥 Filmmaker<br>
-🎓 Studying soon<br>
+🎓 Studying<br>
 </ul>
 
 <br>
