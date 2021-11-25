@@ -13,9 +13,10 @@
 
 <h2><img src="https://media.giphy.com/media/XBiIXQOKTLoxlTDfIs/giphy.gif" height="25"> Current Projects</h2>
 <ul style="padding: 0;">
-🎵 A live-voting app for parties - connected via Spotify API<br>
-📄 My own CMS System<br>
-💻 A website archive with templates for artists
+🎵  A live-voting app for parties - connected via Spotify API<br>
+📄  My own CMS System<br>
+💻  A website archive with templates for artists<br>
+🤖  A little Zumo-Robot
 </ul>
 <br>
 
