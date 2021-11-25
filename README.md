@@ -2,10 +2,6 @@
 
 <h2><img src="https://media.giphy.com/media/lq3imhZ7qSz8xAFBv4/giphy.gif" height="20">About Me</h2>
 
-<p>
-  Hey I'm Marvin, 18 yo from Germany. Im an aspiring programmer. I'm studying computer science at the HSHL in Hamm. But I still code my own things. And I'm a filmmaker. But that's not for GitHub.
-</p>
-
 <ul style="padding: 0;">
 🎂 18 yo<br>
 💻 Webdev<br>
