@@ -3,7 +3,7 @@
 <h2><img src="https://media.giphy.com/media/lq3imhZ7qSz8xAFBv4/giphy.gif" height="20">About Me</h2>
 
 <ul style="padding: 0;">
-🎂 18 yo<br>
+🎂 19 yo<br>
 💻 Webdev<br>
 🎥 Filmmaker<br>
 🎓 Studying<br>
