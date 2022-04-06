@@ -49,6 +49,15 @@
     <a href="https://www.python.org/" target="_blank">
         <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" height="25" />
     </a>
+    <a href="https://www.java.com/" target="_blank">
+        <img src="https://img.shields.io/badge/-Java-3776AB?style=flat-square&logo=Java&logoColor=white" height="25" />
+    </a>
+    <a href="https://www.arduino.cc/" target="_blank">
+        <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" height="25" />
+    </a>                                                                                                             
+    <a href="wikipedia.org/wiki/C_(Programmiersprache)" target="_blank">
+        <img src="https://img.shields.io/badge/-C%20/%20C++-00979D?style=flat-square&logo=c&logoColor=white" height="25" />
+    </a>
     <a href="https://github.com/dermrvn-code" target="_blank">
         <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25" />
     </a>
@@ -78,13 +87,13 @@
 
 <br>
 
-<h2><img src="https://media.giphy.com/media/YRDstN3RevBJBbqZIl/giphy.gif" height="25"> Stuff I Want To Learn Soon</h2>
+<h2><img src="https://media.giphy.com/media/YRDstN3RevBJBbqZIl/giphy.gif" height="25">Stuff I Want To Learn Soon</h2>
 <p>
-    <a href=https://www.arduino.cc/" target="_blank">
-        <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" height="25" />
-    </a>
     <a href="https://www.linux.org/" target="_blank">
         <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" height="25" />
+    </a>
+    <a href="https://www.unity.com/" target="_blank">
+        <img src="https://img.shields.io/badge/-Unity-FCC624?style=flat-square&logo=unity&logoColor=black" height="25" />
     </a>
     <a href="https://reactjs.org/" target="_blank">
         <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" height="25" />
