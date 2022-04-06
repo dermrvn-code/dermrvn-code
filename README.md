@@ -56,7 +56,7 @@
         <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" height="25" />
     </a>                                                                                                             
     <a href="wikipedia.org/wiki/C_(Programmiersprache)" target="_blank">
-        <img src="https://img.shields.io/badge/-C%20/%20C++-00599C?style=flat-square&logo=c++&logoColor=white" height="25" />
+        <img src="https://img.shields.io/badge/-C%20/%20C++-A8B9CC?style=flat-square&logo=c&logoColor=black" height="25" />
     </a>
     <a href="https://github.com/dermrvn-code" target="_blank">
         <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25" />
