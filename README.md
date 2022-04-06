@@ -15,7 +15,7 @@
 <ul style="padding: 0;">
 🎵  A live-voting app for parties - connected via Spotify API<br>
 📄  My own CMS System<br>
-🤖  A little Zumo-Robot controled via bluetooth
+🤖  A little Zumo-Robot controlled via bluetooth
 </ul>
 <br>
 
