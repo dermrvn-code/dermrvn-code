@@ -95,6 +95,9 @@
     <a href="https://www.unity.com/" target="_blank">
         <img src="https://img.shields.io/badge/-Unity-FCC624?style=flat-square&logo=unity&logoColor=black" height="25" />
     </a>
+    <a href="https://www.blender.org/" target="_blank">
+        <img src="https://img.shields.io/badge/-Blender-FCC624?style=flat-square&logo=Blender&logoColor=black" height="25" />
+    </a>
     <a href="https://reactjs.org/" target="_blank">
         <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" height="25" />
     </a>
