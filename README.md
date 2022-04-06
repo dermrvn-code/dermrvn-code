@@ -4,7 +4,7 @@
 
 <ul style="padding: 0;">
 🎂 19 yo<br>
-💻 Webdev<br>
+💻 Webdev and other shit<br>
 🎥 Filmmaker<br>
 🎓 Studying<br>
 </ul>
@@ -15,8 +15,7 @@
 <ul style="padding: 0;">
 🎵  A live-voting app for parties - connected via Spotify API<br>
 📄  My own CMS System<br>
-💻  A website archive with templates for artists<br>
-🤖  A little Zumo-Robot
+🤖  A little Zumo-Robot controled via bluetooth
 </ul>
 <br>
 
