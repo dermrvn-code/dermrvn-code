@@ -4,16 +4,17 @@
 
 <ul style="padding: 0;">
 🎂 19 yo<br>
-💻 Webdev and other shit<br>
+💻 Webdev and many more<br>
 🎥 Filmmaker<br>
-🎓 Studying<br>
+🎓 Studying Intelligent Systems Design at HSHL in Hamm<br>
 </ul>
 
 <br>
 
-<h2><img src="https://media.giphy.com/media/XBiIXQOKTLoxlTDfIs/giphy.gif" height="25"> Current Projects</h2>
+<h2><img src="https://media.giphy.com/media/XBiIXQOKTLoxlTDfIs/giphy.gif" height="25"> Current Ideas/Projects</h2>
 <ul style="padding: 0;">
-🎵  A live-voting app for parties - connected via Spotify API<br>
+🎵  Live-voting app for parties - connected via Spotify API<br>
+💭  Mental Health APP<br>
 📄  My own CMS System<br>
 🤖  A little Zumo-Robot controlled via bluetooth
 </ul>
@@ -21,14 +22,14 @@
 
 <h2><img src="https://media.giphy.com/media/KcVjOpaQfE6bhicWqP/giphy.gif" height="25">My Socialmedia</h2>
 <p>
-  <a href="mailto:marvinskanal.yt@gmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:info@dermrvn.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://instagram.com/dermrvn" target="_blank"><img height="28" src = "https://img.shields.io/badge/-Instagram-e95950?style=for-the-badge&logo=Instagram&logoColor=white"></a>
   <a href="https://youtube.com/dermrvn" target="_blank"><img height="28" src = "https://img.shields.io/badge/-youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
 <br>
 
-<h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="25"> Stuff I Know</h2>
+<h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="25">Stuff I Kinda Know</h2>
 
 <p>
     <a href="https://html5.org/" target="_blank">
