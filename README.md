@@ -16,7 +16,7 @@
 🎵  Live-voting app for parties - connected via Spotify API<br>
 💭  Mental Health APP<br>
 📄  My own CMS System<br>
-🤖  A little Zumo-Robot controlled via bluetooth
+🤖  A little Zumo-Robot controlled via bluetooth [Zumo Code](https://github.com/dermrvn-code/zumo-bluetooth), [App Code](https://github.com/dermrvn-code/zumo-bluetooth-app)
 </ul>
 <br>
 
