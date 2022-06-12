@@ -139,6 +139,6 @@
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=dermrvn-code&theme=highcontrast&show_icons=true&include_all_commits=true&count_private=true&hide=issues&line_height=32">
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=dermrvn&theme=highcontrast&line_height=32">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dermrvn-code&theme=highcontrast&show_icons=trueline_height=32">
-  <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=dermrvn&theme=highcontrast&line_height=32">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dermrvn-code&layout=compact&theme=dark&show_icons=true&line_height=32">
+  <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=dermrvn&theme=dark&line_height=32">
 </p>
