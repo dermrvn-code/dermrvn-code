@@ -2,7 +2,7 @@
 
 <ul>
 🎂 19 yo<br>
-💻 Webdev and many more<br>
+💻 Webdev and much more<br>
 🎥 Filmmaker<br>
 🎓 Studying Intelligent Systems Design at HSHL in Hamm<br>
 </ul>
