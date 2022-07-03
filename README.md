@@ -11,7 +11,7 @@
 
 <ul>
 🎵  Live-voting app for parties - connected via Spotify API<br>
-📖  Physikbuch mit AR Funktion
+📖  Physics book with AR Features
 </ul>
 <br>
 
