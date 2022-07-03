@@ -11,9 +11,7 @@
 
 <ul>
 🎵  Live-voting app for parties - connected via Spotify API<br>
-💭  Mental Health APP<br>
-📄  My own CMS System<br>
-🤖  A Pololu Zumo-Robot controlled via bluetooth
+📖  Physikbuch mit AR Funktion
 </ul>
 <br>
 
