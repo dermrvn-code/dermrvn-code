@@ -13,7 +13,7 @@
 📖  Physics book with AR Features <a href="https://github.com/dermrvn-code/ar-physicsbook">[Repo]</a>
 </ul>
 
-<h2><img src="https://media.giphy.com/media/XBiIXQOKTLoxlTDfIs/giphy.gif" height="25"> Finished Projects</h2>
+<h2><img src="https://media.giphy.com/media/rNeXmdHjB155PXhtUk/giphy.gif" height="25"> Finished Projects</h2>
 <ul>
 🤖  Bluetooth Zumo-Robot with Unity App <a href="https://github.com/dermrvn-code/zumo-bluetooth">[Zumo]</a> & <a href="https://github.com/dermrvn-code/zumo-bluetooth-app">[App]</a>
 </ul>
