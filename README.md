@@ -10,7 +10,7 @@
 <h2><img src="https://media.giphy.com/media/XBiIXQOKTLoxlTDfIs/giphy.gif" height="25"> Current Ideas/Projects</h2>
 <ul>
 🎵  Live-voting app for parties - connected via Spotify API<br>
-📖  Physics book with AR Features
+📖  Physics book with AR Features<br>
 🎲  "Mensch Ärger Dich Nicht"-Game in C# with WPF
 </ul>
 
