@@ -11,12 +11,12 @@
 <ul>
 🎵  Live-voting app for parties - connected via Spotify API<br>
 📖  Physics book with AR Features<br>
-🎲  "Mensch Ärger Dich Nicht"-Game in C# with WPF
 </ul>
 
 <h2><img src="https://media.giphy.com/media/rNeXmdHjB155PXhtUk/giphy.gif" height="25"> Finished Projects</h2>
 <ul>
 🤖  Bluetooth Zumo-Robot with Unity App <a href="https://github.com/dermrvn-code/zumo-bluetooth">[Zumo]</a> & <a href="https://github.com/dermrvn-code/zumo-bluetooth-app">[App]</a>
+🎲  "Mensch Ärger Dich Nicht"-Game in C# with WPF <a href="https://github.com/dermrvn-code/MenschAergereDichNicht">[Repo]</a>
 </ul>
 
 <h2><img src="https://media.giphy.com/media/KcVjOpaQfE6bhicWqP/giphy.gif" height="25"> My Socialmedia</h2>
