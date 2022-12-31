@@ -15,7 +15,7 @@
 
 <h2><img src="https://media.giphy.com/media/rNeXmdHjB155PXhtUk/giphy.gif" height="25"> Finished Projects</h2>
 <ul>
-🤖  Bluetooth Zumo-Robot with Unity App <a href="https://github.com/dermrvn-code/zumo-bluetooth">[Zumo]</a> & <a href="https://github.com/dermrvn-code/zumo-bluetooth-app">[App]</a>
+🤖  Bluetooth Zumo-Robot with Unity App <a href="https://github.com/dermrvn-code/zumo-bluetooth">[Zumo]</a> & <a href="https://github.com/dermrvn-code/zumo-bluetooth-app">[App]</a><br>
 🎲  "Mensch Ärger Dich Nicht"-Game in C# with WPF <a href="https://github.com/dermrvn-code/MenschAergereDichNicht">[Repo]</a>
 </ul>
 
