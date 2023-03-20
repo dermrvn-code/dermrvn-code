@@ -1,9 +1,8 @@
 <h2><img src="https://media.giphy.com/media/lq3imhZ7qSz8xAFBv4/giphy.gif" height="20"> About Me</h2>
 
 <ul>
-🎂 19 yo<br>
+🎂 20 yo<br>
 💻 Webdev and much more<br>
-🎥 Filmmaker<br>
 🎓 Studying Intelligent Systems Design at HSHL in Hamm<br>
 </ul>
 
