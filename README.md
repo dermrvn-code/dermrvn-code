@@ -3,13 +3,14 @@
 <ul>
 🎂 20 yo<br>
 💻 Developer or something<br>
-🎓 Studying Intelligent Systems Design at HSHL in Hamm<br>
+🎓 Studying Intelligent Systems Design<br>
 </ul>
 
 <h2><img src="https://media.giphy.com/media/XBiIXQOKTLoxlTDfIs/giphy.gif" height="25"> Current Ideas/Projects</h2>
 <ul>
 🎵  Live-voting app for parties - connected via Spotify API<br>
 📖  Physics book with AR Features<br>
+🏦  "Payment" app for 🤫 <br>
 </ul>
 
 <h2><img src="https://media.giphy.com/media/rNeXmdHjB155PXhtUk/giphy.gif" height="25"> Finished Projects</h2>
