@@ -11,6 +11,7 @@
 🎵  Live-voting app for parties - connected via Spotify API<br>
 📖  Physics book with AR Features<br>
 🏦  "Payment" app for 🤫 <br>
+❄️  Smart Cooler
 </ul>
 
 <h2><img src="https://media.giphy.com/media/rNeXmdHjB155PXhtUk/giphy.gif" height="25"> Finished Projects</h2>
