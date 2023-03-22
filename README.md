@@ -2,7 +2,7 @@
 
 <ul>
 🎂 20 yo<br>
-💻 Webdev and much more<br>
+💻 Developer or something<br>
 🎓 Studying Intelligent Systems Design at HSHL in Hamm<br>
 </ul>
 
