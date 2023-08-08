@@ -35,7 +35,6 @@
 
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My Stats</h2>
 
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dermrvn-code&layout=compact&theme=gotham&show_icons=true)
   ![](https://github-readme-stats.vercel.app/api/wakatime?username=dermrvn&theme=gotham&show_icons=true)
   
  <!--
