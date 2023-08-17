@@ -28,10 +28,3 @@
 
 [![](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/) [![](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=Blender&logoColor=white)](https://www.blender.org/) [![AE](https://img.shields.io/badge/-After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)](https://www.adobe.com/de/products/aftereffects.html)
 
-
-<h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My Stats</h2>
-
-  ![](https://github-readme-stats.vercel.app/api/wakatime?username=dermrvn&theme=gotham&show_icons=true)
-  
- <!--
-![](https://github-readme-stats.vercel.app/api/pin/?username=dermrvn-code&repo=zumo-bluetooth-app&theme=gotham) -->
