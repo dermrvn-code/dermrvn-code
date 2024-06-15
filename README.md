@@ -4,6 +4,7 @@
 🎂 21 yo<br>
 💻 Developer or something<br>
 🎓 Studying Intelligent Systems Design<br>
+📱 HMU on [Insta](https://www.instagram.com/dermrvn)
 </ul>
 
 <h2><img src="https://media.giphy.com/media/XBiIXQOKTLoxlTDfIs/giphy.gif" height="25"> Current Ideas/Projects</h2>
