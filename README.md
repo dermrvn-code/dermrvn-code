@@ -18,7 +18,7 @@
 🤖  Bluetooth Zumo-Robot with Unity App <a href="https://github.com/dermrvn-code/zumo-bluetooth">[Zumo]</a> & <a href="https://github.com/dermrvn-code/zumo-bluetooth-app">[App]</a><br>
 🎲  "Mensch Ärger Dich Nicht"-Game in C# with WPF <a href="https://github.com/dermrvn-code/MenschAergereDichNicht">[Repo]</a><br>
 ❄️  Smart Cooler<br>
-📖  Physics book with AR Features (not finished, but not my project anymore)<br>
+📖  Physics book with AR Features (not my project anymore)<br>
 </ul>
 
 <h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="25"> Stuff I Kinda Know</h2>
