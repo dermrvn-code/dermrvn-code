@@ -10,6 +10,7 @@
 <h2><img src="https://media.giphy.com/media/XBiIXQOKTLoxlTDfIs/giphy.gif" height="25"> Current Ideas/Projects</h2>
 <ul>
 🔭 Digital periscope <br>
+🔐 BRSKI implementation in python <br>
 </ul>
 
 <h2><img src="https://media.giphy.com/media/rNeXmdHjB155PXhtUk/giphy.gif" height="25"> Finished Projects</h2>
