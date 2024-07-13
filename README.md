@@ -7,10 +7,10 @@
 📱 HMU on <a href="https://www.instagram.com/dermrvn">Insta</a><br>
 </ul>
 
-<h2><img src="https://media.giphy.com/media/XBiIXQOKTLoxlTDfIs/giphy.gif" height="25"> Current Ideas/Projects</h2>
+<h2><img src="https://media.giphy.com/media/XBiIXQOKTLoxlTDfIs/giphy.gif" height="25"> Current Projects</h2>
 <ul>
-🔭 Digital periscope <br>
-🔐 BRSKI implementation in python <br>
+🔭 Digital periscope <a href="https://dermrvn-code.github.io/LookAround/">[Documentation]</a><br>
+🔐 BRSKI python implementation in python <a href="https://github.com/dermrvn-code/BRSKI-PY">[Repo]</a><br>
 </ul>
 
 <h2><img src="https://media.giphy.com/media/rNeXmdHjB155PXhtUk/giphy.gif" height="25"> Finished Projects</h2>
