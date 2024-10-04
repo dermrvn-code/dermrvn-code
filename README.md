@@ -6,11 +6,11 @@
 🎓 Studying Intelligent Systems Design<br>
 </ul>
 
-<h2><img src="https://media.giphy.com/media/XBiIXQOKTLoxlTDfIs/giphy.gif" height="25"> Current Projects <small>or at least in v1</small></h2>
+<h2><img src="https://media.giphy.com/media/XBiIXQOKTLoxlTDfIs/giphy.gif" height="25"> Current Projects</h2>
 <ul>
 </ul>
 
-<h2><img src="https://media.giphy.com/media/rNeXmdHjB155PXhtUk/giphy.gif" height="25"> Finished Projects</h2>
+<h2><img src="https://media.giphy.com/media/rNeXmdHjB155PXhtUk/giphy.gif" height="25"> Finished Projects</h2> <small>or at least in v1</small>
 <ul>
 🤖  Bluetooth Zumo-Robot with Unity App <a href="https://github.com/dermrvn-code/zumo-bluetooth">[Zumo]</a> & <a href="https://github.com/dermrvn-code/zumo-bluetooth-app">[App]</a><br>
 🎲  "Mensch Ärger Dich Nicht"-Game in C# with WPF <a href="https://github.com/dermrvn-code/MenschAergereDichNicht">[Repo]</a><br>
