@@ -6,10 +6,8 @@
 🎓 Studying Intelligent Systems Design<br>
 </ul>
 
-<h2><img src="https://media.giphy.com/media/XBiIXQOKTLoxlTDfIs/giphy.gif" height="25"> Current Projects</h2>
+<h2><img src="https://media.giphy.com/media/XBiIXQOKTLoxlTDfIs/giphy.gif" height="25"> Current Projects <small>or at least in v1</small></h2>
 <ul>
-🔭 Digital periscope <a href="https://dermrvn-code.github.io/LookAround/">[Documentation]</a><br>
-🔐 BRSKI python implementation in python <a href="https://github.com/dermrvn-code/BRSKI-PY">[Repo]</a><br>
 </ul>
 
 <h2><img src="https://media.giphy.com/media/rNeXmdHjB155PXhtUk/giphy.gif" height="25"> Finished Projects</h2>
@@ -18,6 +16,8 @@
 🎲  "Mensch Ärger Dich Nicht"-Game in C# with WPF <a href="https://github.com/dermrvn-code/MenschAergereDichNicht">[Repo]</a><br>
 ❄️  Smart Cooler<br>
 📖  Physics book with AR Features<br>
+🔭 Digital periscope <a href="https://dermrvn-code.github.io/LookAround/">[Documentation]</a><br>
+🔐 BRSKI python implementation in python <a href="https://github.com/dermrvn-code/BRSKI-PY">[Repo]</a><br>
 </ul>
 
 <h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="25"> Stuff I Kinda Know</h2>
