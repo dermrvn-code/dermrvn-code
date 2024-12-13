@@ -8,9 +8,9 @@
 
 <h2><img src="https://media.giphy.com/media/XBiIXQOKTLoxlTDfIs/giphy.gif" height="25"> Current Projects</h2>
 <ul>
-🚕  Radar Integration and Synchronization into an Automated Driving Platform
-👨🏻‍🎓  Demonstrator for Student-Certificates
-🏦  Web-App zum "Bezahlen" mit Waren
+🚕  Radar Integration and Synchronization into an Automated Driving Platform<br>
+👨🏻‍🎓  Demonstrator for Student-Certificates<br>
+🏦  Web-App zum "Bezahlen" mit Waren<br>
 </ul>
 
 <h2><img src="https://media.giphy.com/media/rNeXmdHjB155PXhtUk/giphy.gif" height="25"> Finished and "Finished" Projects</h2>
