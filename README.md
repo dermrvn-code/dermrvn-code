@@ -18,6 +18,7 @@
 🎲  "Mensch Ärger Dich Nicht"-Game in C# with WPF <a href="https://github.com/dermrvn-code/MenschAergereDichNicht">[Repo]</a><br>
 ❄️  Smart Cooler<br>
 📖  Physics book with AR Features<br>
+📡  Hardware-Demonstrator for PMCW radar on an ZYNQ FPGA<br>
 🔭  Digital periscope <a href="https://dermrvn-code.github.io/LookAround/">[Documentation]</a><br>
 🔐  BRSKI python implementation in Python <a href="https://github.com/dermrvn-code/BRSKI-PY">[Repo]</a><br>
 👨🏻‍🎓  Demonstrator for Student-Certificates <a href="https://github.com/dermrvn-code/StudentCertificateDemo">[Repo]</a><br>
