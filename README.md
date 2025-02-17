@@ -1,7 +1,7 @@
 <h2><img src="https://media.giphy.com/media/lq3imhZ7qSz8xAFBv4/giphy.gif" height="20"> About Me</h2>
 
 <ul>
-🎂 21 yo<br>
+🎂 22 yo<br>
 💻 Developer or something<br>
 🎓 Studying Intelligent Systems Design<br>
 </ul>
