@@ -8,7 +8,7 @@
 
 <h2><img src="https://media.giphy.com/media/XBiIXQOKTLoxlTDfIs/giphy.gif" height="25"> Current Projects</h2>
 <ul>
-🚕  Radar Integration and Synchronization into an Automated Driving Platform<br>
+  ♟️  Smart Chessboard "Chessy"
 </ul>
 
 <h2><img src="https://media.giphy.com/media/rNeXmdHjB155PXhtUk/giphy.gif" height="25"> Finished and "Finished" Projects</h2>
@@ -22,6 +22,7 @@
 🔐  BRSKI python implementation in Python <a href="https://github.com/dermrvn-code/BRSKI-PY">[Repo]</a><br>
 👨🏻‍🎓  Demonstrator for Student-Certificates <a href="https://github.com/dermrvn-code/StudentCertificateDemo">[Repo]</a><br>
 🏦  Web-App to "Pay" with goods (IOU) <a href="https://github.com/dermrvn-code/IOweYou/">[Repo]</a><br>
+🚕  Radar Integration and Synchronization into an Automated Driving Platform<br>
 </ul>
 
 <h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="25"> Stuff I Kinda Know</h2>
