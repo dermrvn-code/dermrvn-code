@@ -8,7 +8,8 @@
 
 <h2><img src="https://media.giphy.com/media/XBiIXQOKTLoxlTDfIs/giphy.gif" height="25"> Current Projects</h2>
 <ul>
-  ♟️  Smart Chessboard "Chessy"
+  ♟️  Smart Chessboard "Chessy"<br>
+  🔭  Digital periscope <a href="https://dermrvn-code.github.io/LookAround/">[Documentation]</a><br>
 </ul>
 
 <h2><img src="https://media.giphy.com/media/rNeXmdHjB155PXhtUk/giphy.gif" height="25"> Finished and "Finished" Projects</h2>
@@ -18,7 +19,6 @@
 ❄️  Smart Cooler<br>
 📖  Physics book with AR Features<br>
 📡  Hardware-Demonstrator for PMCW radar on an ZYNQ FPGA<br>
-🔭  Digital periscope <a href="https://dermrvn-code.github.io/LookAround/">[Documentation]</a><br>
 🔐  BRSKI python implementation in Python <a href="https://github.com/dermrvn-code/BRSKI-PY">[Repo]</a><br>
 👨🏻‍🎓  Demonstrator for Student-Certificates <a href="https://github.com/dermrvn-code/StudentCertificateDemo">[Repo]</a><br>
 🏦  Web-App to "Pay" with goods (IOU) <a href="https://github.com/dermrvn-code/IOweYou/">[Repo]</a><br>
