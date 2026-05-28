@@ -1,7 +1,7 @@
 <h2><img src="https://media.giphy.com/media/lq3imhZ7qSz8xAFBv4/giphy.gif" height="20"> About Me</h2>
 
 <ul>
-🎂 22 yo<br>
+🎂 23 yo<br>
 💻 Developer or something<br>
 🎓 B. Eng. Intelligent Systems Design<br>
 </ul>
@@ -9,7 +9,6 @@
 <h2><img src="https://media.giphy.com/media/XBiIXQOKTLoxlTDfIs/giphy.gif" height="25"> Current Projects</h2>
 <ul>
   ♟️  Smart Chessboard "Chessy"<br>
-  🔭  Digital periscope <a href="https://dermrvn-code.github.io/LookAround/">[Documentation]</a><br>
 </ul>
 
 <h2><img src="https://media.giphy.com/media/rNeXmdHjB155PXhtUk/giphy.gif" height="25"> Finished and "Finished" Projects</h2>
@@ -23,6 +22,7 @@
 👨🏻‍🎓  Demonstrator for Student-Certificates <a href="https://github.com/dermrvn-code/StudentCertificateDemo">[Repo]</a><br>
 🏦  Web-App to "Pay" with goods (IOU) <a href="https://github.com/dermrvn-code/IOweYou/">[Repo]</a><br>
 🚕  Radar Integration and Synchronization into an Automated Driving Platform<br>
+  🔭  Digital periscope <a href="https://dermrvn-code.github.io/LookAround/">[Documentation]</a><br>
 </ul>
 
 <h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="25"> Stuff I Kinda Know</h2>
