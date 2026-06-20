@@ -4,11 +4,13 @@
 🎂 23 yo<br>
 💻 Developer or something<br>
 🎓 B. Eng. Intelligent Systems Design<br>
+🎓 Student Computer Engineering<br>
 </ul>
 
 <h2><img src="https://media.giphy.com/media/XBiIXQOKTLoxlTDfIs/giphy.gif" height="25"> Current Projects</h2>
 <ul>
   ♟️  Smart Chessboard "Chessy"<br>
+  📄  Documentation DSL "DocLang" <a href="https://github.com/dermrvn-code/doc-lang">[Repo]</a><br>
 </ul>
 
 <h2><img src="https://media.giphy.com/media/rNeXmdHjB155PXhtUk/giphy.gif" height="25"> Finished and "Finished" Projects</h2>
