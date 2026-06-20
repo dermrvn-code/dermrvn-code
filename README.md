@@ -4,7 +4,7 @@
 🎂 23 yo<br>
 💻 Developer or something<br>
 🎓 B. Eng. Intelligent Systems Design<br>
-🎓 Student Computer Engineering<br>
+👨🏻‍🎓 Student Computer Engineering<br>
 </ul>
 
 <h2><img src="https://media.giphy.com/media/XBiIXQOKTLoxlTDfIs/giphy.gif" height="25"> Current Projects</h2>
