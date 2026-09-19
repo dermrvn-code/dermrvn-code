@@ -10,7 +10,7 @@
 <h2><img src="https://media.giphy.com/media/XBiIXQOKTLoxlTDfIs/giphy.gif" height="25"> Current Projects</h2>
 <ul>
   ♟️  Smart Chessboard "Chessy"<br>
-  📄  Documentation DSL "DocLang" <a href="https://github.com/dermrvn-code/doc-lang">[Repo]</a><br>
+  🚉  Depature Display for Berlin's public transport "BVG Beacon" <a href="https://github.com/dermrvn-code/BVG-Beacon">[Repo]</a>
 </ul>
 
 <h2><img src="https://media.giphy.com/media/rNeXmdHjB155PXhtUk/giphy.gif" height="25"> Finished and "Finished" Projects</h2>
@@ -24,7 +24,8 @@
 👨🏻‍🎓  Demonstrator for Student-Certificates <a href="https://github.com/dermrvn-code/StudentCertificateDemo">[Repo]</a><br>
 🏦  Web-App to "Pay" with goods (IOU) <a href="https://github.com/dermrvn-code/IOweYou/">[Repo]</a><br>
 🚕  Radar Integration and Synchronization into an Automated Driving Platform<br>
-  🔭  Digital periscope <a href="https://dermrvn-code.github.io/LookAround/">[Documentation]</a><br>
+🔭  Digital periscope <a href="https://dermrvn-code.github.io/LookAround/">[Documentation]</a><br>
+📄  Documentation DSL "DocLang" <a href="https://github.com/dermrvn-code/doc-lang">[Repo]</a><br>
 </ul>
 
 <h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="25"> Stuff I Kinda Know</h2>
